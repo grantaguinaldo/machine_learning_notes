@@ -5,6 +5,7 @@ General Resources:
 * [Let’s Write a Decision Tree Classifier from Scratch - Machine Learning Recipes #8
 ](https://youtu.be/LDRbO9a6XPU)
 * [Gini Impurity](https://en.wikipedia.org/wiki/Decision_tree_learning#Gini_impurity) 
+* [Jupyter Notebook From Video](https://github.com/random-forests/tutorials/blob/master/decision_tree.ipynb)
 
 
 Overall, a decision tree asks a series of `True/False` questions to classify a given dataset.
