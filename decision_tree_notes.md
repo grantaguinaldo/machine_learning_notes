@@ -7,6 +7,8 @@ General Resources:
 * [Gini Impurity](https://en.wikipedia.org/wiki/Decision_tree_learning#Gini_impurity) 
 * [Jupyter Notebook From Video](https://github.com/random-forests/tutorials/blob/master/decision_tree.ipynb)
 * [`sklearn.tree.DecisionTreeClassifier`](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
+* [Decision Tree Classification in Python](https://www.datacamp.com/community/tutorials/decision-tree-classification-python)
+* [StatQuest: Decision Trees](https://youtu.be/7VeUPuFGJHk)
 
 
 Overall, a decision tree asks a series of `True/False` questions to classify a given dataset.
