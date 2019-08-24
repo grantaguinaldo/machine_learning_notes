@@ -29,7 +29,7 @@ As a whole, the way that a decision tree works to determine the kinds of questio
 * Subtract the initial `Gini` vale from the weighted average `Gini` value. 
 * This difference is determined to the question with the best information gain score, and this is interpreted to be the best question to ask in the decision tree classifier. 
 
-#### Notes from Hands-On Machine Learning with Scikit-Learn & TensorFlow (First Edition, pg. 167-179)
+#### [Notes from Hands-On Machine Learning with Scikit-Learn & TensorFlow (First Edition, pg. 167-179)](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp-1491962291/dp/1491962291)
 
 * You can visualize the decision tree using the `graphviz` package.
 * Since you are able to see how the classifier purifies the data at each step, a decision tree classifier is called a _whitebox model_ as opposed to a _blackbox model_. This is good from a perspective of interpretability. 
